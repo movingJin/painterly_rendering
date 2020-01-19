@@ -7,6 +7,4 @@ Implementation of Aaron Hertzmann's paper "Painterly Rendering with Curved Brush
 3. Select drawing mode. (only circle mode available)
 
 ### results
-{% capture images %}
-    https://github.com/redrabit/Painterly_Rendering/blob/master/capture.png?raw=true
-{% endcapture %}
+![image](https://user-images.githubusercontent.com/23163982/72676382-0d5e8f00-3ad4-11ea-8d8d-03490e27fee3.png)
